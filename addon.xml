@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.nlradio" name="NL Radio" version="6.9.0" provider-name="Blue Sun Corporation">
+<addon id="plugin.audio.radionl" name="Radio NL" version="0.0.1" provider-name="Blue Sun Corporation">
 	<extension point="xbmc.python.pluginsource" library="start.py">
 		<provides>audio</provides>
 	</extension>
@@ -10,10 +10,10 @@
 		<disclaimer>Beta versie 0 Dislaimer: De NL Radio plugin bevat enkel openbare radiostreams.</disclaimer>
 		<language>nl</language>
 		<platform>all</platform>
-		<license>MIT</license>
+		<license>LGPL-2.0-or-later</license>
 		<website>https://github.io/</website>
 		<source>https://github.com/</source>
-		<news>6.9.0 Eerste remake</news>
+		<news>0.0.1 Eerste remake</news>
 		<assets>
            		<icon>resources/icon.png</icon>
             		<fanart>resources/fanart.jpg</fanart>
