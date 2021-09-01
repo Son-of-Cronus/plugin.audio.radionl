@@ -8,7 +8,7 @@ args = urlparse.parse_qs(sys.argv[2][1:])
 addon_handle=int(sys.argv[1])
 xbmcutil.addon_handle=addon_handle
 
-__settings__ = xbmcaddon.Addon(id='plugin.audio.nlradio')
+__settings__ = xbmcaddon.Addon(id='plugin.audio.radionl')
 rootDir = xbmc.translatePath(__settings__.getAddonInfo('path')).decode('utf-8')
 streamDir = os.path.join(rootDir, "streams")
 
