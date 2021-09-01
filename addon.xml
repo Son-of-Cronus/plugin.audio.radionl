@@ -10,7 +10,7 @@
 		<disclaimer>Beta versie 0 Dislaimer: De NL Radio plugin bevat enkel openbare radiostreams.</disclaimer>
 		<language>nl</language>
 		<platform>all</platform>
-		<license>LGPL-2.0-or-later</license>
+		<license>GPL-3.0-or-later</license>
 		<website>https://github.io/</website>
 		<source>https://github.com/</source>
 		<news>0.0.1 Eerste remake</news>
