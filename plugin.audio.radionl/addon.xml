@@ -12,7 +12,7 @@
 		<platform>all</platform>
 		<license>GPL-3.0-or-later</license>
 		<website>https://github.io/</website>
-		<source>https://github.com/Son-of-Cronus/plugin.audo.radionl</source>
+		<source>https://github.com/Son-of-Cronus/radionl</source>
 		<news>0.0.1 Eerste remake voor v18- Leia/news>
 		<assets>
            		<icon>resources/icon.png</icon>
