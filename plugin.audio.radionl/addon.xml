@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.radionl" name="RadioNL" version="0.0.1" provider-name="[COLOR blue][B]Blue Sun Corporation[/B][/COLOR]">
+<addon id="plugin.audio.radionl" name="RadioNL" version="0.0.4" provider-name="[COLOR blue][B]Blue Sun Corporation[/B][/COLOR]">
 	<requires>
 		<import addon="xbmc.python" version="2.0.0"/>
 	</requires>
@@ -15,7 +15,23 @@
 		<license>GPL-3.0-or-later</license>
 		<website>https://github.io/</website>
 		<source>https://github.com/Son-of-Cronus/radionl/tree/main/plugin.audio.radionl/</source>
-		<news>0.0.1 Eerste remake voor v18- Leia/news>
+		<news>[B]Releasenotes V0.0.4 (4 September 2021)[/B]	
+		[COLOR orange]Gewijzigd: Arrow Classic Rock[/COLOR]
+		[COLOR orange]Gewijzigd: BNR[/COLOR]
+		[COLOR orange]Gewijzigd: Classic NL[/COLOR]
+		[COLOR orange]Gewijzigd: Slam Juize[/COLOR]
+		[COLOR orange]Gewijzigd: Studio Brussel[/COLOR]
+		[COLOR orange]Gewijzigd: Radio 10[/COLOR]
+		[COLOR orange]Gewijzigd: Radio 538[/COLOR]
+		[B]Releasenotes V0.0.3 (26 Augustus 2021)[/B]
+		[COLOR orange]Gewijzigd: Code en folder optimalisatie voor python 3 upgrade[/COLOR]
+		[B]Releasenotes V0.0.2 (16 Augustus 2021)[/B]
+		[COLOR orange]Gewijzigd: Radio Veronica[/COLOR]
+		[B]Releasenotes V0.0.1 (27 Januari 2021)[/B]
+		[COLOR green]Toegevoegd: Stenders Music Service
+		Toegevoegd: IceRadio[/COLOR]
+		[COLOR orange]Gewijzigd: KX Radio[/COLOR]
+		[COLOR red] Verwijderd: Freakolympics[/COLOR]</news>
 		<assets>
            		<icon>resources/icon.png</icon>
             		<fanart>resources/fanart.jpg</fanart>
