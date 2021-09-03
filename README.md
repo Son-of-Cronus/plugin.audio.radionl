@@ -1,4 +1,4 @@
-# plugin.audio.radionl
+# RadioNL
 This repository holds the main code for the RadioNL kodi addon. Issues regarding this script can be submitted at our issue tracker at GitHub. For more information on bug reporting, please visit https://github.com/Son-of-Cronos/plugin.audio.radionl
 ## Introduction
 RadioNL is a Kodi audio add-on which allows you to listen and sometimes watch streams of Dutch Radio stations.
