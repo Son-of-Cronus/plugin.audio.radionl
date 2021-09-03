@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.radionl" name="Radio NL" version="0.0.1" provider-name="Blue Sun Corporation">
+<addon id="plugin.audio.radionl" name="RadioNL" version="0.0.1" provider-name="[COLOR blue][B]Blue Sun Corporation[/B][/COLOR]">
+	<requires>
+		<import addon="xbmc.python" version="2.0.0"/>
+	</requires>
 	<extension point="xbmc.python.pluginsource" library="start.py">
 		<provides>audio</provides>
 	</extension>
 	<extension  point="xbmc.addon.metadata">
-		<platform>all</platform>
 		<summary lang="nl">Nederlandse radio streams plugin</summary>
 		<description lang="nl">Luister en kijk eenvoudig naar Nederlandse radios treams. Mist u een zender? Laat het ons weten op github.</description>
 		<disclaimer>Dislaimer: De NL Radio plugin bevat enkel openbare radiostreams.</disclaimer>
@@ -12,7 +14,7 @@
 		<platform>all</platform>
 		<license>GPL-3.0-or-later</license>
 		<website>https://github.io/</website>
-		<source>https://github.com/Son-of-Cronus/radionl</source>
+		<source>https://github.com/Son-of-Cronus/radionl/tree/main/plugin.audio.radionl/</source>
 		<news>0.0.1 Eerste remake voor v18- Leia/news>
 		<assets>
            		<icon>resources/icon.png</icon>
