@@ -8,7 +8,7 @@ from resources.lib import xbmcutil
 
 __addon__           = xbmcaddon.Addon()
 __author__          = __addon__.getAddonInfo('author')
-__addon_id__		= __addon__.getAddonInfo('id')
+__addon_id__	= __addon__.getAddonInfo('id')
 __addon_name__      = __addon__.getAddonInfo('name')
 __addon_path__	   	= __addon__.getAddonInfo('path')
 __addon_version__	= __addon__.getAddonInfo('version')
