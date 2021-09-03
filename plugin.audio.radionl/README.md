@@ -18,4 +18,4 @@ RadioNL is licensed under a GNU General Public License v3.0, see: <a href="https
 ## Disclaimer
 RadioNL is not connected to or in any other way affiliated with any radio broadcaster, Kodi, Team Kodi or the XBMC Foundation. Furthermore, any software, addons, or products offered by RadioNL will only receive support in its Github repository.
 
-We, the RadioNL team, are not responsible for any content that is displayed using the RadioNL Framework.
+We, the RadioNL team, are not responsible for any content that is accessible using the RadioNL Framework.
