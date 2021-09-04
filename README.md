@@ -10,7 +10,7 @@ Starting from Kodi Leia (v18), you can easily install RadioNL Service from the o
 ### Kodi Leia and Matrix
 We support the previous and the current release of Kodi. So with the release of Kodi Matrix (v19), the support for Kodi Leia (v18) is continued and Krypton(v17) has been removed.
 ## Contributing
-You can help develop Retrospect via our <a href="https://github.com/Son-of-Cronus/radionl/tree/main/plugin.audio.radionl/" rel="nofollow">Github</a> page.
+You can help develop RadioNL via our <a href="https://github.com/Son-of-Cronus/radionl/tree/main/plugin.audio.radionl/" rel="nofollow">Github</a> page.
 ## Acknowledgement
 The first idea for the RadioNL came from a script by vdianl and pvdl.
 ## Copyrights and Licenses
