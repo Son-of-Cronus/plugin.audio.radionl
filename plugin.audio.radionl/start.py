@@ -35,7 +35,7 @@ args = urllib.parse.parse_qs(sys.argv[2][1:])
 addon_handle=int(sys.argv[1])
 xbmcutil.addon_handle=addon_handle
 
-__settings__= xbmcaddon.Addon(id='plugin.audio.radionl')
+__settings__ = xbmcaddon.Addon(id='plugin.audio.radionl')
 rootDir = xbmcvfs.translatePath(__settings__.getAddonInfo('path'))
 streamDir = os.path.join(rootDir, "streams")
 
