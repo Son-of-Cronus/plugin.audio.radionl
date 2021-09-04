@@ -1,5 +1,5 @@
 '''
-    Stenders music Service audio Add-on
+    RadioNL audio Add-on
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GPL-3.0 License as published by
     the Free Software Foundation, either version 3 of the License, or
