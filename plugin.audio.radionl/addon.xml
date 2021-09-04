@@ -8,7 +8,7 @@
 	</extension>
 	<extension  point="xbmc.addon.metadata">
 		<summary lang="nl">Nederlandse radio streams plugin</summary>
-		<description lang="nl">Luister en kijk eenvoudig naar meer dan 300(!) Nederlandse radios streams. Mist u een zender? Laat het ons weten op github.</description>
+		<description lang="nl">Luister en kijk eenvoudig naar meer dan 300(!) Nederlandse radios streams. Mist u een zender of doet een stream het niet meer? Laat het ons weten op github.</description>
 		<disclaimer>Dislaimer: De NL Radio plugin bevat enkel openbare radiostreams.</disclaimer>
 		<language>nl</language>
 		<platform>all</platform>
@@ -16,13 +16,13 @@
 		<website>https://github.io/</website>
 		<source>https://github.com/Son-of-Cronus/radionl/tree/main/plugin.audio.radionl/</source>
 		<news>[B]Releasenotes V0.0.4 (4 September 2021)[/B]	
-		[COLOR orange]Gewijzigd: Arrow Classic Rock[/COLOR]
-		[COLOR orange]Gewijzigd: BNR[/COLOR]
-		[COLOR orange]Gewijzigd: Classic NL[/COLOR]
-		[COLOR orange]Gewijzigd: Slam Juize[/COLOR]
-		[COLOR orange]Gewijzigd: Studio Brussel[/COLOR]
-		[COLOR orange]Gewijzigd: Radio 10[/COLOR]
-		[COLOR orange]Gewijzigd: Radio 538[/COLOR]
+		[COLOR orange]Gewijzigd: Arrow Classic Rock
+		Gewijzigd: BNR
+		Gewijzigd: Classic NL
+		Gewijzigd: Slam Juize
+		Gewijzigd: Studio Brussel
+		Gewijzigd: Radio 10
+		Gewijzigd: Radio 538[/COLOR]
 		[B]Releasenotes V0.0.3 (26 Augustus 2021)[/B]
 		[COLOR orange]Gewijzigd: Code en folder optimalisatie voor python 3 upgrade[/COLOR]
 		[B]Releasenotes V0.0.2 (16 Augustus 2021)[/B]
