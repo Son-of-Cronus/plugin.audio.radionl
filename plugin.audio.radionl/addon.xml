@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.radionl" name="RadioNL" version="0.0.4" provider-name="[COLOR blue][B]Blue Sun Corporation[/B][/COLOR]">
+<addon id="plugin.audio.radionl" name="RadioNL" version="0.0.5" provider-name="[COLOR blue][B]Blue Sun Corporation[/B][/COLOR]">
 	<requires>
-		<import addon="xbmc.python" version="2.0.0"/>
+		<import addon="xbmc.python" version="3.0.0"/>
+		<import addon="script.module.kodi-six" />
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="start.py">
 		<provides>audio</provides>
@@ -15,7 +16,9 @@
 		<license>GPL-3.0-or-later</license>
 		<website>https://github.io/</website>
 		<source>https://github.com/Son-of-Cronus/radionl/tree/main/plugin.audio.radionl/</source>
-		<news>[B]Releasenotes V0.0.4 (4 September 2021)[/B]	
+		<news>[B]Releasenotes V0.0.5 (4 September 2021)[/B]
+		[COLOR orange]Gewijzigd: Full upgrade to python 3[/COLOR]
+		[B]Releasenotes V0.0.4 (3 September 2021)[/B]
 		[COLOR orange]Gewijzigd: Arrow Classic Rock
 		Gewijzigd: BNR
 		Gewijzigd: Classic NL
