@@ -28,7 +28,7 @@ __addon_fanart__	= __addon__.getAddonInfo('fanart')
 __addon_icon__		= __addon__.getAddonInfo('icon')
 __country_code__	= 'NL'
 
-__profile__             = xbmc.translatePath(__addon__.getAddonInfo('profile'))
+__profile__             = xbmcvfs.translatePath(__addon__.getAddonInfo('profile'))
 
 args = urllib.parse.parse_qs(sys.argv[2][1:])
 
@@ -36,7 +36,7 @@ addon_handle=int(sys.argv[1])
 xbmcutil.addon_handle=addon_handle
 
 __settings__= xbmcaddon.Addon(id='plugin.audio.radionl')
-rootDir = xbmc.translatePath(__settings__.getAddonInfo('path'))
+rootDir = xbmcvfs.translatePath(__settings__.getAddonInfo('path'))
 streamDir = os.path.join(rootDir, "streams")
 
 def browse(strDir):
