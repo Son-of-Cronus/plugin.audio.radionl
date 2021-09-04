@@ -2,6 +2,7 @@
 <addon id="plugin.audio.radionl" name="RadioNL" version="0.0.4" provider-name="[COLOR blue][B]Blue Sun Corporation[/B][/COLOR]">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
+		<import addon="script.module.kodi-six" />
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="start.py">
 		<provides>audio</provides>
